@@ -1,2 +1,2 @@
 # leet-code
-Leet code python solutions (Jupiter notebooks)
+Leet code python solutions (Jupyter notebooks)
